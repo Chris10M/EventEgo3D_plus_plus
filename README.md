@@ -156,7 +156,7 @@ The provided [pretrained](#pretrained-models) checkpoint gives us an accuracy of
 ## Citation
 
 If you find this code useful for your research, please cite our paper:
-
+```
 @misc{millerdurai2025eventego3d3dhumanmotion,
       title={EventEgo3D++: 3D Human Motion Capture from a Head-Mounted Event Camera}, 
       author={Christen Millerdurai and Hiroyasu Akada and Jian Wang and Diogo Luvizon and Alain Pagani and Didier Stricker and Christian Theobalt and Vladislav Golyanik},
@@ -166,7 +166,7 @@ If you find this code useful for your research, please cite our paper:
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2502.07869}, 
 }
-
+```
 ## License
 
 EventEgo3D++ is under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. The license also applies to the pre-trained models.
