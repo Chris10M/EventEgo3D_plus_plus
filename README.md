@@ -11,7 +11,7 @@ Alain Pagani<sup>2</sup>, Didier Stricker<sup>2</sup>, Christian Theobalt<sup>1<
 
 ## Official PyTorch implementation
 
-[Project page](https://eventego3d.mpi-inf.mpg.de/) | [Paper](https://arxiv.org/abs/2502.07869v1)
+[Project page](https://eventego3d.mpi-inf.mpg.de/) | [arXiv](https://arxiv.org/abs/2502.07869v1) | [IJCV](https://link.springer.com/article/10.1007/s11263-025-02489-1)
 
 <p align="center">
 <img src="images/teaser.gif" alt="EventEgo3D" height="172"  /></br>
@@ -157,14 +157,22 @@ The provided [pretrained](#pretrained-models) checkpoint gives us an accuracy of
 
 If you find this code useful for your research, please cite our paper:
 ```
-@misc{millerdurai2025eventego3d3dhumanmotion,
-      title={EventEgo3D++: 3D Human Motion Capture from a Head-Mounted Event Camera}, 
-      author={Christen Millerdurai and Hiroyasu Akada and Jian Wang and Diogo Luvizon and Alain Pagani and Didier Stricker and Christian Theobalt and Vladislav Golyanik},
-      year={2025},
-      eprint={2502.07869},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2502.07869}, 
+@article{eventegoplusplus,
+author={Millerdurai, Christen
+and Akada, Hiroyasu
+and Wang, Jian
+and Luvizon, Diogo
+and Pagani, Alain
+and Stricker, Didier
+and Theobalt, Christian
+and Golyanik, Vladislav},
+title={EventEgo3D++: 3D Human Motion Capture from A Head-Mounted Event Camera},
+journal={International Journal of Computer Vision (IJCV)},
+year={2025},
+month={Jun},
+day={11},
+issn={1573-1405},
+doi={10.1007/s11263-025-02489-1},
 }
 ```
 ## License
