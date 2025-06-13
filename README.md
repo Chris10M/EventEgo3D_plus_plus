@@ -1,4 +1,4 @@
-# EventEgo3D++: 3D Human Motion Capture from a Head-Mounted Event Camera 
+# EventEgo3D++: 3D Human Motion Capture from a Head-Mounted Event Camera [IJCV]
 <center>
 
 Christen Millerdurai<sup>1,2</sup>, Hiroyasu Akada<sup>1</sup>, Jian Wang<sup>1</sup>, Diogo Luvizon<sup>1</sup>, 
